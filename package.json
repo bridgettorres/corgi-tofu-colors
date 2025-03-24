@@ -1,0 +1,35 @@
+{
+  "name": "corgitofucolors",
+  "displayName": "CorgiTofu Colors",
+  "description": "A corgi theme for corgi lovers, inspired by Tofu the corgi",
+  "publisher": "BridgetTorres",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bridgettorres/corgi-tofu-colors.git"
+  },
+  "keywords": ["light theme", "corgi", "dog", "tofu", "brown"],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./themes/icons/corgiicon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "CorgiTofu Colors",
+        "uiTheme": "vs",
+        "path": "./themes/CorgiTofu Colors-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "corgiIcons",
+        "label": "Corgi Icons",
+        "path": "./themes/file-icon-theme.json"
+      }
+    ]
+  }
+}

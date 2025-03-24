@@ -1,0 +1,8 @@
+{
+    "iconDefinitions": {
+      "folderIcon": {
+        "iconPath": "./icons/foldericon.png"
+      },
+    },
+    "folder": "folderIcon",
+  }
