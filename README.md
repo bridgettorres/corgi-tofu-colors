@@ -7,8 +7,10 @@ Tofu, the adorable corgi, inspires this VSCode theme with his warm, soft, and in
 
 Enjoy coding with a theme as cute and loyal as a corgi!
 
+![Tofu](./icons/tofu.png)
+
 ## Feedback  
 Your feedback is appreciated! Let me know how I can improve the theme.  
 
-![Tofu Theme Preview](./icons/tofu.jpg)
+
 

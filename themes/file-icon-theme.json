@@ -3,6 +3,16 @@
       "folderIcon": {
         "iconPath": "./icons/foldericon.png"
       },
+      "pythonIcon": {
+        "iconPath": "./icons/pyicon.png"
+      },
+      "dartIcon": {
+        "iconPath": "./icons/darticon.png"
+      },
     },
     "folder": "folderIcon",
+    "fileExtensions": {
+      "py": "pythonIcon",
+      "dart": "dartIcon",
+    },
   }
